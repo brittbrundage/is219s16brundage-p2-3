@@ -1,0 +1,35 @@
+{
+    "images": [
+        {
+            "imgPath": "img/photography/brittani-30.jpg",
+            "imgLocation": "Hope, New Jersey",
+            "description": "Beautiful Sunrise",
+            "date": "07/30/2014"
+        },
+        {
+            "imgPath": "img/photography/lightpainting-2.jpg",
+            "imgLocation": "Hope, New Jersey",
+            "description": "Light Painting",
+            "date": "03/12/16"
+        },
+        {
+            "imgPath": "img/photography/rebecca-46.jpg",
+            "imgLocation": "Bloomfield, New Jersey",
+            "description": "Bloomfield High School Prom 2015",
+            "date": "05/08/15"
+        },
+        {
+            "imgPath": "img/photography/rebecca-334.jpg",
+            "imgLocation": "Bloomfield, New Jersey",
+            "description": "Bloomfield High School Prom 2014",
+            "date": "05/08/15"
+        },
+        {
+            "imgPath": "img/photography/warren-county-fair-183-1.jpg”,
+            "imgLocation": "Warren County Fair Grounds, Harmony, New Jersey",
+            "description": "Warren County Fair Hot Air Balloon Festival",
+            "date": "08/02/16"
+        }
+  ]
+}
+
